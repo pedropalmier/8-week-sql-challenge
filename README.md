@@ -3,7 +3,7 @@
 
 This repository contains my solutions  for the [8 Week SQL Challenge](https://8weeksqlchallenge.com/), a collection of case studies with various business problems to be explored and solved using SQL. 
 
-***If you found it useful, consider giving it a ⭐️!***
+**If you found it useful, consider giving it a ⭐️!**
 
 ---
 
