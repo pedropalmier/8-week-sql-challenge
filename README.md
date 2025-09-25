@@ -10,7 +10,7 @@ This repository contains my solutions  for the [8 Week SQL Challenge](https://8w
 ### 👨🏻‍💻 Environment Setup 
 For these exercises, I chose PostgreSQL as it has been the most popular DBMS for the second consecutive year, according to the [2024 Stack Overflow Developer Survey](https://survey.stackoverflow.co/2024/technology#1-databases:~:text=PostgreSQL%20debuted%20in%20the%20developer%20survey%20in%202018%20when%2033%25%20of%20developers%20reported%20using%20it%2C). This reinforces my SQL skills while staying aligned with industry standards and current trends.
 
-As a database IDE, I used [DataGrip](https://www.jetbrains.com/datagrip/) and set up the provided databases on a local PostgreSQL server, in order to better simulate a real-world environment and strengthen my technical skills, rather than relying solely on the sandbox environments the case author made available in [DB Fiddle](https://www.db-fiddle.com/f/2rM8RAnq7h5LLDTzZiRWcd/138).
+I used [DataGrip](https://www.jetbrains.com/datagrip/) as my database IDE and set up the provided databases on a local PostgreSQL server to simulate a more realistic environment, rather than using the sandbox [DB Fiddle](https://www.db-fiddle.com/f/2rM8RAnq7h5LLDTzZiRWcd/138) environment provided by the case author.
 
 ### 🙌 Special thanks to
 [@MarianaMannes](https://github.com/marianamannes), my friend and former colleague, for pointing me to these exercises when I said I wanted to sharpen my SQL skills. [@DannyMa](https://github.com/datawithdanny) for creating such well-designed cases. And the [DataGrip](https://www.jetbrains.com/datagrip/) team for generously extending my trial license so I could work on the exercises with their awesome tool.
