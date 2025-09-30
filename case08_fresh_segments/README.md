@@ -744,4 +744,4 @@ WHERE month_year BETWEEN '2018-09-01' AND '2019-08-01';
 
 ---
 
-© ***Pedro Palmier** – São Paulo, Winter 2025.*
+© ***Pedro Palmier** – São Paulo, September 2025.*
