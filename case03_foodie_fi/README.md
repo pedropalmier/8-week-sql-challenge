@@ -527,4 +527,4 @@ ORDER BY customer_id, payment_date;
 <div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/0eedcb6a42db46ac5aa13ffc4ea21a3c5cb40b78/case04_data_bank"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/hero_images/hero_data_bank.png"  style="width:50%; height:50%;"></a></div>
 
 ---
-© ***Pedro Palmier** • August 2025*
+© ***Pedro Palmier** • September 2025*
