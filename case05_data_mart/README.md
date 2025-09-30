@@ -476,4 +476,4 @@ GROUP BY calendar_year;
 <div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/09278f36d9782d1ecf241e81053646813f591452/case06_clique_bait"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/hero_images/hero_clique_bait.png"  style="width:50%; height:50%;"></a></div>
 
 ---
-© ***Pedro Palmier** – São Paulo, Winter 2025.*
+© ***Pedro Palmier** – São Paulo, September 2025.*
