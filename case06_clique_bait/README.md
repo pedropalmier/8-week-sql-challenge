@@ -812,4 +812,4 @@ FROM avg_conversion;
 <div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/b66446d8a8290d94964d91ed2e3e92c5aa2b02cd/case07_balanced_tree"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/hero_images/hero_balanced_tree.png"  style="width:50%; height:50%;"></a></div>
 
 ---
-© ***Pedro Palmier** – São Paulo, Winter 2025.*
+© ***Pedro Palmier** – São Paulo, September 2025.*
