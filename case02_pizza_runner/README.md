@@ -1054,4 +1054,4 @@ FROM pizza_runner.pizza_toppings;
 <div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/597b5e3bdda197074441501a8aaa405b7a222069/case03_foodie_fi"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/hero_images/hero_foodie_fi.png"  style="width:50%; height:50%;"></a></div>
 
 ---
-© ***Pedro Palmier** • August 2025*
+© ***Pedro Palmier** • September 2025*
