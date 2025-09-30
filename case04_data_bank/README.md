@@ -303,4 +303,4 @@ FROM stats;
 <div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/855582d1225e335646ff754feb701adaed39602f/case05_data_mart"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/hero_images/hero_data_mart.png"  style="width:50%; height:50%;"></a></div>
 
 ---
-© ***Pedro Palmier** – São Paulo, Winter 2025.*
+© ***Pedro Palmier** – São Paulo, September 2025.*
