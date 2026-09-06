@@ -1,5 +1,5 @@
 # 🥑 Case Study #3 – Foodie Fi
-<p align="center"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/hero_images/hero_foodie_fi.png" width=60% height=60%>
+<p align="center"><img src="../assets/hero_images/hero_foodie_fi.png" width=60% height=60%>
 
 
 
@@ -9,7 +9,7 @@ Danny launched Foodie-Fi in 2020 as a subscription streaming service focused exc
 ## ⚡️Problem Statement
 Danny needs help to analyze subscription data to generate insights that guide growth, investments, and feature development. This is the entity relationship diagram he shared. See the original schema [here](https://github.com/pedropalmier/8-week-sql-challenge/blob/c0aa498043bdfefe8207e5d8771ed2fdd1388aa9/case03_foodie_fi/schema.sql).
 
-<p align="center"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/ERDs/ERD_foodie_fi_preview.png" width=80% height=80% >
+<p align="center"><img src="../assets/erd_images/ERD_foodie_fi_preview.png" width=80% height=80% >
 
 
 ## ❓Case Study Questions
@@ -524,7 +524,7 @@ ORDER BY customer_id, payment_date;
 
 ### 🏃🏻‍♂️‍➡️ Go to the next case!
 
-<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/0eedcb6a42db46ac5aa13ffc4ea21a3c5cb40b78/case04_data_bank"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/hero_images/hero_data_bank.png"  style="width:50%; height:50%;"></a></div>
+<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/0eedcb6a42db46ac5aa13ffc4ea21a3c5cb40b78/case04_data_bank"><img src="../assets/hero_images/hero_data_bank.png"  style="width:50%; height:50%;"></a></div>
 
 ---
 © ***Pedro Palmier** • September 2025*

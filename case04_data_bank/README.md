@@ -1,5 +1,5 @@
 # 🏦 Case Study #4 – Data Bank
-<p align="center"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/hero_images/hero_data_bank.png" width=60% height=60%>
+<p align="center"><img src="../assets/hero_images/hero_data_bank.png" width=60% height=60%>
 
 ## 💎 Business Context 
 Danny launched Data Bank, a digital-only bank that links customer account balances to secure distributed data storage limits. See the original case study [here](https://8weeksqlchallenge.com/case-study-4/).
@@ -8,7 +8,7 @@ Danny launched Data Bank, a digital-only bank that links customer account balanc
 ## ⚡️Problem Statement
 Danny needs help to analyze customer and storage data to forecast demand and support business growth. He and the Data Bank team prepared this entity relationship diagram. See the original schema [here](https://github.com/pedropalmier/8-week-sql-challenge/blob/c0aa498043bdfefe8207e5d8771ed2fdd1388aa9/case04_data_bank/schema.sql).
 
-<p align="center"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/ERDs/ERD_data_bank_preview.png" width=80% height=80% >
+<p align="center"><img src="../assets/erd_images/ERD_data_bank_preview.png" width=80% height=80% >
 
 
 
@@ -300,7 +300,7 @@ FROM stats;
 
 ### 🏃🏻‍♂️‍➡️ Go to the next case!
 
-<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/855582d1225e335646ff754feb701adaed39602f/case05_data_mart"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/hero_images/hero_data_mart.png"  style="width:50%; height:50%;"></a></div>
+<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/855582d1225e335646ff754feb701adaed39602f/case05_data_mart"><img src="../assets/hero_images/hero_data_mart.png"  style="width:50%; height:50%;"></a></div>
 
 ---
 © ***Pedro Palmier** – São Paulo, September 2025.*

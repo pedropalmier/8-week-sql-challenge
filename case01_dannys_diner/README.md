@@ -1,5 +1,5 @@
 # 🍜 Case Study #1 – Danny's Diner
-<p align="center"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/hero_images/hero_dannys_diner.png" width=60% height=60%>
+<p align="center"><img src="../assets/hero_images/hero_dannys_diner.png" width=60% height=60%>
 
 ## 💎 Business Context
 Danny’s Diner is a small japanese restaurant that opened at the start of 2021. The menu offers three simple dishes: sushi, curry, and ramen. See the original case study [here](https://8weeksqlchallenge.com/case-study-1/).
@@ -7,7 +7,7 @@ Danny’s Diner is a small japanese restaurant that opened at the start of 2021.
 ## ⚡️Problem Statement
 Danny needed support to analyze customer behavior using the limited data he had collected over time. The relationship diagram below illustrates the three core tables used in this case. See the original schema [here](https://github.com/pedropalmier/8-week-sql-challenge/blob/c0aa498043bdfefe8207e5d8771ed2fdd1388aa9/case01_dannys_diner/schema.sql).
 
-<p align="center"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/ERDs/ERD_dannys_diner_preview.png" width=80% height=80% >
+<p align="center"><img src="../assets/erd_images/ERD_dannys_diner_preview.png" width=80% height=80% >
 
 
 
@@ -392,7 +392,7 @@ ORDER BY s.customer_id, s.order_date;
 
 ### 🏃🏻‍♂️‍➡️ Go to the next case!
 
-<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/c14d132358e554ad11fa196c3434e1e784f23e9d/case02_pizza_runner"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/hero_images/hero_pizza_runner.png"  style="width:50%; height:50%;"></a></div>
+<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/c14d132358e554ad11fa196c3434e1e784f23e9d/case02_pizza_runner"><img src="../assets/hero_images/hero_pizza_runner.png"  style="width:50%; height:50%;"></a></div>
 
 ---
 © ***Pedro Palmier** • August 2025*

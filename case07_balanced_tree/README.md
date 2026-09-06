@@ -1,5 +1,5 @@
 # 🌳 Case Study #7 – Balanced Tree
-<p align="center"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/hero_images/hero_balanced_tree.png" width=60% height=60%>
+<p align="center"><img src="../assets/hero_images/hero_balanced_tree.png" width=60% height=60%>
 
 
 
@@ -9,7 +9,7 @@ Danny leads Balanced Tree Clothing Company, a fashion brand focused on optimized
 ## ⚡️Problem Statement
 Danny needs help to analyze sales performance and produce a financial report to support the merchandising team and wider business. He prepared a total of 4 datasets for this case study. See the original schema [here](https://github.com/pedropalmier/8-week-sql-challenge/blob/b84caab5db93cc00dea9500f779837babaa8283e/case07_balanced_tree/schema.sql).
 
-<p align="center"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/ERDs/ERD_balanced_tree_preview.png" width=80% height=80% >
+<p align="center"><img src="../assets/erd_images/ERD_balanced_tree_preview.png" width=80% height=80% >
 
 
 
@@ -496,7 +496,7 @@ ORDER BY txn_count DESC;
 
 ### 🏃🏻‍♂️‍➡️ Go to the next case!
 
-<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/d5670cdc4a4b7f6ad6f546611a896478045f55ff/case08_fresh_segments"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/hero_images/hero_fresh_segments.png"  style="width:50%; height:50%;"></a></div>
+<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/d5670cdc4a4b7f6ad6f546611a896478045f55ff/case08_fresh_segments"><img src="../assets/hero_images/hero_fresh_segments.png"  style="width:50%; height:50%;"></a></div>
 
 ---
 © ***Pedro Palmier** – São Paulo, September 2025.*

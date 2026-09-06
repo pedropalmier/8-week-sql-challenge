@@ -1,5 +1,5 @@
 # 🍊 Case Study #8 – Fresh Segments
-<p align="center"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/hero_images/hero_fresh_segments.png" width=60% height=60%>
+<p align="center"><img src="../assets/hero_images/hero_fresh_segments.png" width=60% height=60%>
 
 ## 💎 Business Context 
 Danny founded Fresh Segments, a digital marketing agency that aggregates client customer data to analyze online ad click behavior and interest trends. See the original case study [here](https://8weeksqlchallenge.com/case-study-8/).
@@ -7,7 +7,7 @@ Danny founded Fresh Segments, a digital marketing agency that aggregates client 
 ## ⚡️Problem Statement
 Danny needs help to analyze aggregated interest metrics for a client and generate high-level insights about customer behavior and preferences. He prepared these 2 datasets. See the original schema [here](https://github.com/pedropalmier/8-week-sql-challenge/blob/b84caab5db93cc00dea9500f779837babaa8283e/case08_fresh_segments/schema.sql).
 
-<p align="center"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/ERDs/ERD_fresh_segments_preview.png" width=80% height=80% >
+<p align="center"><img src="../assets/erd_images/ERD_fresh_segments_preview.png" width=80% height=80% >
 
 
 ## ❓Case Study Questions

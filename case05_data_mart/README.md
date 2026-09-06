@@ -1,5 +1,5 @@
 # 🛒 Case Study #5 – Data Mart
-<p align="center"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/hero_images/hero_data_mart.png" width=60% height=60%>
+<p align="center"><img src="../assets/hero_images/hero_data_mart.png" width=60% height=60%>
 
 
 ## 💎 Business Context 
@@ -8,7 +8,7 @@ Danny launched Data Mart, an online supermarket specializing in fresh produce, a
 ## ⚡️Problem Statement
 Danny needs help to measure the sales impact of the sustainability changes and identify the most affected platforms, regions, segments, and customer types. He and the Data Mart team prepared only one table. See the original schema [here](https://github.com/pedropalmier/8-week-sql-challenge/blob/c0aa498043bdfefe8207e5d8771ed2fdd1388aa9/case05_data_mart/schema.sql).
 
-<p align="center"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/ERDs/ERD_data_mart_preview.png" width=80% height=80% >
+<p align="center"><img src="../assets/erd_images/ERD_data_mart_preview.png" width=80% height=80% >
 
 
 
@@ -473,7 +473,7 @@ GROUP BY calendar_year;
 
 ### 🏃🏻‍♂️‍➡️ Go to the next case!
 
-<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/09278f36d9782d1ecf241e81053646813f591452/case06_clique_bait"><img src="https://default-pedro.s3.us-east-2.amazonaws.com/8weekschallenge/hero_images/hero_clique_bait.png"  style="width:50%; height:50%;"></a></div>
+<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/09278f36d9782d1ecf241e81053646813f591452/case06_clique_bait"><img src="../assets/hero_images/hero_clique_bait.png"  style="width:50%; height:50%;"></a></div>
 
 ---
 © ***Pedro Palmier** – São Paulo, September 2025.*
