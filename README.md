@@ -52,21 +52,21 @@ Feel free to copy or adapt my answers — they’re meant to be shared.  If you 
 
 # 🏃🏻‍♂️‍➡️ Case Studies & My Solutions
 
-<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/0f1f4789f34b8a66a92c261162b1ed588591c812/case01_dannys_diner"><img src="assets/hero_images/hero_dannys_diner.png"  style="width:50%; height:50%;"></a></div>
+<div align="center"><a href="case01_dannys_diner"><img src="assets/hero_images/hero_dannys_diner.png"  style="width:50%; height:50%;"></a></div>
 
-<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/0f1f4789f34b8a66a92c261162b1ed588591c812/case02_pizza_runner"><img src="assets/hero_images/hero_pizza_runner.png"  style="width:50%; height:50%;"></a></div>
+<div align="center"><a href="case02_pizza_runner"><img src="assets/hero_images/hero_pizza_runner.png"  style="width:50%; height:50%;"></a></div>
 
-<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/0f1f4789f34b8a66a92c261162b1ed588591c812/case03_foodie_fi"><img src="assets/hero_images/hero_foodie_fi.png"  style="width:50%; height:50%;"></a></div>
+<div align="center"><a href="case03_foodie_fi"><img src="assets/hero_images/hero_foodie_fi.png"  style="width:50%; height:50%;"></a></div>
 
-<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/0f1f4789f34b8a66a92c261162b1ed588591c812/case04_data_bank"><img src="assets/hero_images/hero_data_bank.png"  style="width:50%; height:50%;"></a></div>
+<div align="center"><a href="case04_data_bank"><img src="assets/hero_images/hero_data_bank.png"  style="width:50%; height:50%;"></a></div>
 
-<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/0f1f4789f34b8a66a92c261162b1ed588591c812/case05_data_mart"><img src="assets/hero_images/hero_data_mart.png"  style="width:50%; height:50%;"></a></div>
+<div align="center"><a href="case05_data_mart"><img src="assets/hero_images/hero_data_mart.png"  style="width:50%; height:50%;"></a></div>
 
-<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/0f1f4789f34b8a66a92c261162b1ed588591c812/case06_clique_bait"><img src="assets/hero_images/hero_clique_bait.png"  style="width:50%; height:50%;"></a></div>
+<div align="center"><a href="case06_clique_bait"><img src="assets/hero_images/hero_clique_bait.png"  style="width:50%; height:50%;"></a></div>
 
-<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/0f1f4789f34b8a66a92c261162b1ed588591c812/case07_balanced_tree"><img src="assets/hero_images/hero_balanced_tree.png"  style="width:50%; height:50%;"></a></div>
+<div align="center"><a href="case07_balanced_tree"><img src="assets/hero_images/hero_balanced_tree.png"  style="width:50%; height:50%;"></a></div>
 
-<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/0f1f4789f34b8a66a92c261162b1ed588591c812/case08_fresh_segments"><img src="assets/hero_images/hero_fresh_segments.png"  style="width:50%; height:50%;"></a></div>
+<div align="center"><a href="case08_fresh_segments"><img src="assets/hero_images/hero_fresh_segments.png"  style="width:50%; height:50%;"></a></div>
 
 
 ---

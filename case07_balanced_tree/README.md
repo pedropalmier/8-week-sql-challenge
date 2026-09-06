@@ -7,7 +7,7 @@
 Danny leads Balanced Tree Clothing Company, a fashion brand focused on optimized clothing and lifestyle wear for modern adventurers. See the original case study [here](https://8weeksqlchallenge.com/case-study-7/).
 
 ## ⚡️Problem Statement
-Danny needs help to analyze sales performance and produce a financial report to support the merchandising team and wider business. He prepared a total of 4 datasets for this case study. See the original schema [here](https://github.com/pedropalmier/8-week-sql-challenge/blob/b84caab5db93cc00dea9500f779837babaa8283e/case07_balanced_tree/schema.sql).
+Danny needs help to analyze sales performance and produce a financial report to support the merchandising team and wider business. He prepared a total of 4 datasets for this case study. See the original schema [here](schema.sql).
 
 <p align="center"><img src="../assets/erd_images/ERD_balanced_tree_preview.png" width=80% height=80% >
 
@@ -41,7 +41,7 @@ Danny needs help to analyze sales performance and produce a financial report to 
 
 
 ## 🎯 My Solution
-*View the complete syntax [here](https://github.com/pedropalmier/8-week-sql-challenge/blob/b84caab5db93cc00dea9500f779837babaa8283e/case07_balanced_tree/solution.sql).*
+*View the complete syntax [here](solution.sql).*
 
 > 💬 **Note**
 > - *In this case study schema, `price` is assumed to be the unit price per product and `discount` is assumed to be a percentage (0-1). All queries and calculations are based on these assumptions since the dataset does not clearly define these fields.*
@@ -496,7 +496,7 @@ ORDER BY txn_count DESC;
 
 ### 🏃🏻‍♂️‍➡️ Go to the next case!
 
-<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/d5670cdc4a4b7f6ad6f546611a896478045f55ff/case08_fresh_segments"><img src="../assets/hero_images/hero_fresh_segments.png"  style="width:50%; height:50%;"></a></div>
+<div align="center"><a href="../case08_fresh_segments"><img src="../assets/hero_images/hero_fresh_segments.png"  style="width:50%; height:50%;"></a></div>
 
 ---
 © ***Pedro Palmier** – São Paulo, September 2025.*

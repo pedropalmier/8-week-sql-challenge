@@ -6,7 +6,7 @@
 Danny launched Data Mart, an online supermarket specializing in fresh produce, and introduced sustainable packaging across the supply chain in June 2020. See the original case study [here](https://8weeksqlchallenge.com/case-study-5/).
 
 ## ⚡️Problem Statement
-Danny needs help to measure the sales impact of the sustainability changes and identify the most affected platforms, regions, segments, and customer types. He and the Data Mart team prepared only one table. See the original schema [here](https://github.com/pedropalmier/8-week-sql-challenge/blob/c0aa498043bdfefe8207e5d8771ed2fdd1388aa9/case05_data_mart/schema.sql).
+Danny needs help to measure the sales impact of the sustainability changes and identify the most affected platforms, regions, segments, and customer types. He and the Data Mart team prepared only one table. See the original schema [here](schema.sql).
 
 <p align="center"><img src="../assets/erd_images/ERD_data_mart_preview.png" width=80% height=80% >
 
@@ -34,7 +34,7 @@ Danny needs help to measure the sales impact of the sustainability changes and i
 
 
 ## 🎯 My Solution
-*View the complete syntax [here](https://github.com/pedropalmier/8-week-sql-challenge/blob/c0aa498043bdfefe8207e5d8771ed2fdd1388aa9/case05_data_mart/solution.sql).*
+*View the complete syntax [here](solution.sql).*
 
 ### Section A: Data Cleansing Steps
 
@@ -473,7 +473,7 @@ GROUP BY calendar_year;
 
 ### 🏃🏻‍♂️‍➡️ Go to the next case!
 
-<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/09278f36d9782d1ecf241e81053646813f591452/case06_clique_bait"><img src="../assets/hero_images/hero_clique_bait.png"  style="width:50%; height:50%;"></a></div>
+<div align="center"><a href="../case06_clique_bait"><img src="../assets/hero_images/hero_clique_bait.png"  style="width:50%; height:50%;"></a></div>
 
 ---
 © ***Pedro Palmier** – São Paulo, September 2025.*

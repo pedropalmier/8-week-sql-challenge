@@ -5,7 +5,7 @@
 Danny founded Fresh Segments, a digital marketing agency that aggregates client customer data to analyze online ad click behavior and interest trends. See the original case study [here](https://8weeksqlchallenge.com/case-study-8/).
 
 ## ⚡️Problem Statement
-Danny needs help to analyze aggregated interest metrics for a client and generate high-level insights about customer behavior and preferences. He prepared these 2 datasets. See the original schema [here](https://github.com/pedropalmier/8-week-sql-challenge/blob/b84caab5db93cc00dea9500f779837babaa8283e/case08_fresh_segments/schema.sql).
+Danny needs help to analyze aggregated interest metrics for a client and generate high-level insights about customer behavior and preferences. He prepared these 2 datasets. See the original schema [here](schema.sql).
 
 <p align="center"><img src="../assets/erd_images/ERD_fresh_segments_preview.png" width=80% height=80% >
 
@@ -44,7 +44,7 @@ Danny needs help to analyze aggregated interest metrics for a client and generat
 
 
 ## 🎯 My Solution
-*View the complete syntax [here](https://github.com/pedropalmier/8-week-sql-challenge/blob/b84caab5db93cc00dea9500f779837babaa8283e/case08_fresh_segments/solution.sql).*
+*View the complete syntax [here](solution.sql).*
 
 ### Section A: Data Exploration and Cleansing
 <a id="a1"></a>

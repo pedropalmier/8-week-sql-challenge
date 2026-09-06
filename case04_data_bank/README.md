@@ -6,7 +6,7 @@ Danny launched Data Bank, a digital-only bank that links customer account balanc
 
 
 ## ⚡️Problem Statement
-Danny needs help to analyze customer and storage data to forecast demand and support business growth. He and the Data Bank team prepared this entity relationship diagram. See the original schema [here](https://github.com/pedropalmier/8-week-sql-challenge/blob/c0aa498043bdfefe8207e5d8771ed2fdd1388aa9/case04_data_bank/schema.sql).
+Danny needs help to analyze customer and storage data to forecast demand and support business growth. He and the Data Bank team prepared this entity relationship diagram. See the original schema [here](schema.sql).
 
 <p align="center"><img src="../assets/erd_images/ERD_data_bank_preview.png" width=80% height=80% >
 
@@ -29,7 +29,7 @@ Danny needs help to analyze customer and storage data to forecast demand and sup
 
 
 ## 🎯 My Solution
-*View the complete syntax [here](https://github.com/pedropalmier/8-week-sql-challenge/blob/c0aa498043bdfefe8207e5d8771ed2fdd1388aa9/case04_data_bank/solution.sql).*
+*View the complete syntax [here](solution.sql).*
 
 ### Section A: Customer Nodes Exploration
 
@@ -300,7 +300,7 @@ FROM stats;
 
 ### 🏃🏻‍♂️‍➡️ Go to the next case!
 
-<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/855582d1225e335646ff754feb701adaed39602f/case05_data_mart"><img src="../assets/hero_images/hero_data_mart.png"  style="width:50%; height:50%;"></a></div>
+<div align="center"><a href="../case05_data_mart"><img src="../assets/hero_images/hero_data_mart.png"  style="width:50%; height:50%;"></a></div>
 
 ---
 © ***Pedro Palmier** – São Paulo, September 2025.*

@@ -6,7 +6,7 @@ Pizza Runner is a pizza delivery startup that uses contracted runners and a mobi
 
 
 ## ⚡️Problem Statement
-Danny needs help to apply core calculations to better direct runners and optimize Pizza Runner's operations. He began collecting data to support the startup's growth and designed the below entity relationship diagram for the database. See the original schema [here](https://github.com/pedropalmier/8-week-sql-challenge/blob/c0aa498043bdfefe8207e5d8771ed2fdd1388aa9/case02_pizza_runner/schema.sql).  
+Danny needs help to apply core calculations to better direct runners and optimize Pizza Runner's operations. He began collecting data to support the startup's growth and designed the below entity relationship diagram for the database. See the original schema [here](schema.sql).  
 
 <p align="center"><img src="../assets/erd_images/ERD_pizza_runner_preview.png" width=80% height=80% >
 
@@ -100,7 +100,7 @@ Lastly, the `pizza_recipes` table contained multiple values in a single row too:
 
 
 ## 🎯 My Solution
-*View the complete syntax [here](https://github.com/pedropalmier/8-week-sql-challenge/blob/c0aa498043bdfefe8207e5d8771ed2fdd1388aa9/case02_pizza_runner/solution.sql).*
+*View the complete syntax [here](solution.sql).*
 
 ### Section 0: Data Cleansing Steps
 <a id="01"></a>
@@ -1051,7 +1051,7 @@ FROM pizza_runner.pizza_toppings;
 
 ### 🏃🏻‍♂️‍➡️ Go to the next case!
 
-<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/597b5e3bdda197074441501a8aaa405b7a222069/case03_foodie_fi"><img src="../assets/hero_images/hero_foodie_fi.png"  style="width:50%; height:50%;"></a></div>
+<div align="center"><a href="../case03_foodie_fi"><img src="../assets/hero_images/hero_foodie_fi.png"  style="width:50%; height:50%;"></a></div>
 
 ---
 © ***Pedro Palmier** • September 2025*

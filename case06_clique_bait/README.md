@@ -5,7 +5,7 @@
 Danny founded Clique Bait, an online seafood store, combining his background in digital data analytics with the seafood industry. See the original case study [here](https://8weeksqlchallenge.com/case-study-6/).
 
 ## ⚡️Problem Statement
-Danny needs help to analyze store data and calculate funnel fallout rates to support his business vision. He prepared a total of 5 datasets that need to be combined to answer the questions. See the original schema [here](https://github.com/pedropalmier/8-week-sql-challenge/blob/b84caab5db93cc00dea9500f779837babaa8283e/case06_clique_bait/schema.sql).
+Danny needs help to analyze store data and calculate funnel fallout rates to support his business vision. He prepared a total of 5 datasets that need to be combined to answer the questions. See the original schema [here](schema.sql).
 
 <p align="center"><img src="../assets/erd_images/ERD_clique_bait_preview.png" width=80% height=80% >
 
@@ -37,7 +37,7 @@ Danny needs help to analyze store data and calculate funnel fallout rates to sup
 
 
 ## 🎯 My Solution
-*View the complete syntax [here](https://github.com/pedropalmier/8-week-sql-challenge/blob/c0aa498043bdfefe8207e5d8771ed2fdd1388aa9/case06_clique_bait/solution.sql).*
+*View the complete syntax [here](solution.sql).*
 
 ### Section A: Entity Relationship Diagram
 <a id="a1"></a>
@@ -809,7 +809,7 @@ FROM avg_conversion;
 
 ### 🏃🏻‍♂️‍➡️ Go to the next case!
 
-<div align="center"><a href="https://github.com/pedropalmier/8-week-sql-challenge/tree/b66446d8a8290d94964d91ed2e3e92c5aa2b02cd/case07_balanced_tree"><img src="../assets/hero_images/hero_balanced_tree.png"  style="width:50%; height:50%;"></a></div>
+<div align="center"><a href="../case07_balanced_tree"><img src="../assets/hero_images/hero_balanced_tree.png"  style="width:50%; height:50%;"></a></div>
 
 ---
 © ***Pedro Palmier** – São Paulo, September 2025.*
